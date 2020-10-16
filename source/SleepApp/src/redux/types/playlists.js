@@ -1,0 +1,2 @@
+export const GET_PLAY_LIST = 'GET_PLAY_LIST'
+export const GET_PLAY_LIST_SUCCESS = 'GET_PLAY_LIST_SUCCESS'
